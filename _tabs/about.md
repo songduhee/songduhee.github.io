@@ -1,6 +1,5 @@
 ---
 # the default layout is 'page'
-title: About
 icon: fas fa-user
 order: 2
 ---
