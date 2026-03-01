@@ -1,7 +1,7 @@
 ---
 title: Resume
 icon: fas fa-file
-order: 2
+order: 3
 ---
 
 # Resume
